@@ -2,13 +2,20 @@ h1{
     background-color: red;
     text-align: center;
 }
+
 table,td, th  {
     border: 1px double black;
     text-align: center;
 }
+
 table{
     width: 50%;
     height: 3;
 }
-th{background-color:grey;}
-td{background-color: rgb(196, 188, 188);}
+
+th{
+    background-color:grey;
+}
+td{
+    background-color: rgb(196, 188, 188);
+}
